@@ -4,7 +4,7 @@ Hauptfigur des Buchs ist Hal Bregg. Er kommt nach zehn Jahren Raumflug zur Erde 
 
 ## Eigenschaften
 
-- war Pilot der Expedition
-- hat Kameraden sterben sehen
-- wirkt auf Frauen, weil er Behandlung zur Reduzierung von Aggressionen nicht durchführt
+* war Pilot der Expedition
+* hat Kameraden sterben sehen
+* wirkt auf Frauen, weil er Behandlung zur Reduzierung von Aggressionen nicht durchführt
 
