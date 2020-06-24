@@ -10,5 +10,4 @@ Hauptfigur des Buchs ist Hal Bregg. Er kommt nach zehn Jahren Raumflug zur Erde 
 
 Zitat von Hal Bregg:
 
-> „Wie hast du dir das eigentlich vorgestellt? … Warum wolltest du das vor mir geheimhalten?“
-
+> „Wie hast du dir das eigentlich vorgestellt? 
