@@ -11,3 +11,5 @@ Hauptfigur des Buchs ist Hal Bregg. Er kommt nach zehn Jahren Raumflug zur Erde 
 Zitat von Hal Bregg:
 
 > Wie hast du dir das eigentlich vorgestellt? 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/St_Lem_resize.jpg/80px-St_Lem_resize.jpg"/>
