@@ -8,3 +8,7 @@ Hauptfigur des Buchs ist Hal Bregg. Er kommt nach zehn Jahren Raumflug zur Erde 
 * hat Kameraden sterben sehen
 * wirkt auf Frauen, weil er Behandlung zur Reduzierung von Aggressionen nicht durchführt
 
+Zitat von Hal Bregg:
+
+> „Wie hast du dir das eigentlich vorgestellt? … Warum wolltest du das vor mir geheimhalten?“
+
